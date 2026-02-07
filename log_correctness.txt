@@ -1,0 +1,6 @@
+runtime_ms 225.125
+checksum -3716.597040
+runtime_ms 199.995
+checksum -3716.597040
+runtime_ms 90.945
+checksum -3716.596763

@@ -1,0 +1,9 @@
+AVX2
+runtime_ms 2734.862
+checksum -117601.063413
+OPENMP P=8
+runtime_ms 6725.060
+checksum -117601.065306
+OPENMP P=16
+runtime_ms 6500.840
+checksum -117601.065306
